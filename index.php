@@ -47,5 +47,4 @@ try{
     echo"A dberror";
 }
 
-echo "Aggiunta modifica";
-
+echo "Aggiunta modifica da locale";
