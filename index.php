@@ -46,3 +46,6 @@ try{
 }catch(PDOException $e){
     echo"A dberror";
 }
+
+echo "Aggiunta modifica";
+
